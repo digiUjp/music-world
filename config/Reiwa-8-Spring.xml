@@ -18,9 +18,9 @@
 			<itunes:email></itunes:email>
 		</itunes:owner>
 		<itunes:explicit>false</itunes:explicit>
-		<itunes:category text="Education">
-			<itunes:category text="Language Learning"/>
-		</itunes:category>
+		<itunes:category text="Music">
+            <itunes:category text="Music Commentary"/>
+        </itunes:category>
 		<itunes:image href="https://is1-ssl.mzstatic.com/image/thumb/PodcastSource221/v4/dc/2d/bf/dc2dbf62-f2cd-d698-c37c-00ae8a2d0fd7/a4601d4c-adab-42e9-8aa5-5681f8f97794.png/400x400bb.jpg"/>
 		<item>
 			<title><![CDATA[Same Bread We Break]]></title>
