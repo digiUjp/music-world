@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters">
 	<channel>
-		<title><![CDATA[Music-World Lab]]></title>
-		<description><![CDATA[Music-World Lab]]></description>
+		<title><![CDATA[Reiwa 8 Spring ( 令和8年の春 )]]></title>
+		<description><![CDATA[Reiwa 8 Spring ( 令和8年の春 )]]></description>
 		<link>https://digiU.jp</link>
 		<generator>Podcasts</generator>
 		<lastBuildDate>Wed, 22 Apr 2026 02:05:19 GMT</lastBuildDate>
@@ -11,7 +11,7 @@
 		<language><![CDATA[en]]></language>
 		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 		<itunes:author>digiU.jp ( デジ大.jp )</itunes:author>
-		<itunes:summary>Music-World Lab</itunes:summary>
+		<itunes:summary>Reiwa 8 Spring ( 令和8年の春 )</itunes:summary>
 		<itunes:type>episodic</itunes:type>
 		<itunes:owner>
 			<itunes:name>digiU.jp ( デジ大.jp )</itunes:name>
