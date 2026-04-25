@@ -1,1 +1,42 @@
-
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters">
+	<channel>
+		<title><![CDATA[Music-World Lab]]></title>
+		<description><![CDATA[Music-World Lab]]></description>
+		<link>https://digiU.jp</link>
+		<generator>Podcasts</generator>
+		<lastBuildDate>Wed, 22 Apr 2026 02:05:19 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/111a56f4c/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[digiU.jp ( デジ大.jp )]]></author>
+		<copyright><![CDATA[digiU.jp ( デジ大.jp )]]></copyright>
+		<language><![CDATA[en]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>digiU.jp ( デジ大.jp )</itunes:author>
+		<itunes:summary>Music-World Lab</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>digiU.jp ( デジ大.jp )</itunes:name>
+			<itunes:email></itunes:email>
+		</itunes:owner>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:category text="Education">
+			<itunes:category text="Language Learning"/>
+		</itunes:category>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45810219/45810219-1776596301940-e2a33703ca05b.jpg"/>
+		<item>
+			<title><![CDATA[test-1]]></title>
+			<description><![CDATA[<p>test-1</p>
+]]></description>
+			<link>https://digiU.jp</link>
+			<guid isPermaLink="false">0173878d-a4a8-4350-af2c-3cec60df4325</guid>
+			<dc:creator><![CDATA[digiU.jp ( デジ大.jp )]]></dc:creator>
+			<pubDate>Sun, 19 Apr 2026 10:31:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/111a56f4c/podcast/play/118683566/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-19%2F422372299-44100-2-ff38627ac729f.mp3" length="28723826" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;test-1&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:29:55</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45810219/45810219-1776596301940-e2a33703ca05b.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>		
+	</channel>
+</rss>
